@@ -4,10 +4,6 @@ Maikhanhtran0912@gmail.com
 
 www.linkedin.com/in/maikhanh-tran
 
-# Summary
-
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
-
 # Work Experience
 
 ## Kizuki Ramen & Izakaya
