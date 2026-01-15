@@ -36,3 +36,5 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 ## University Of Washington (Seattle, WA)
 (September 2023 - Present, Seattle, WA)
 - Fulfilling credits for a Bachelors degree in **Geography: Data Science** (GIS)
+
+CHANGESGSGSG
