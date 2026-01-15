@@ -26,11 +26,8 @@ www.linkedin.com/in/maikhanh-tran
 - Responsible for packaging **patient medicine*** accurately
 - Scanned medications and processed logs into excel sheets 
 
-
 # Education
 
 ## University Of Washington (Seattle, WA)
 (September 2023 - Present, Seattle, WA)
 - Fulfilling credits for a Bachelors degree in **Geography: Data Science** (GIS)
-
-CHANGESGSGSG
